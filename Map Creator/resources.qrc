@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/gold_star.png</file>
+        <file>icons/icon_animation.png</file>
+        <file>icons/icon_backward.png</file>
+        <file>icons/icon_collision.png</file>
+        <file>icons/icon_delete.png</file>
+        <file>icons/icon_delete_tiles.png</file>
+        <file>icons/icon_editor.jpg</file>
+        <file>icons/icon_forward.png</file>
+        <file>icons/icon_grid.png</file>
+        <file>icons/icon_height.png</file>
+        <file>icons/icon_light.png</file>
+        <file>icons/icon_new.png</file>
+        <file>icons/icon_new_tile.png</file>
+        <file>icons/icon_open.png</file>
+        <file>icons/icon_open_tiles.png</file>
+        <file>icons/icon_place.png</file>
+        <file>icons/icon_save.png</file>
+        <file>icons/icon_save_tiles.png</file>
+        <file>icons/icon_zoomin.png</file>
+        <file>icons/icon_zoomout.png</file>
+        <file>icons/silver_star.png</file>
+        <file>icons/splashscreen.png</file>
+        <file>icons/move.png</file>
+        <file>icons/go_to.png</file>
+        <file>icons/gear.png</file>
+        <file>icons/icon_texture.png</file>
+        <file>icons/icon_texture_library.png</file>
+        <file>icons/icon_down.png</file>
+        <file>icons/icon_up.png</file>
+        <file>icons/icon_layer.png</file>
+    </qresource>
+</RCC>
