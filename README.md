@@ -1,28 +1,28 @@
 # MapCreator
 
-Ancien projet (2013), d'un editeur de carte en 2D isométrique, avec système de gestion de lumières dynamiques, de collisions, de denivelé de carte, de sprite animés, et d'interpretation en 3D dimensions.
+Project (2013), of an isometric 2D map editor, with dynamic light management system, collisions, map elevation, animated sprite, and 3D interpretation.
 
-Codé en C++, avec Qt et SMFL pour concevoir le moteur graphique.
+Coded in C ++, with Qt and SMFL to design the graphics engine.
 
-Screenshots (de différentes versions):
+Screenshots (of different versions):
 
-- Editeur de carte
+- Map Editor
 
 ![image](https://github.com/AnonymHax/MapCreator/blob/master/screenshots/screen1.PNG?raw=true)
 
-- Rendu de lumieres dynamiques
+- Rendering of dynamic lights
 
 ![image](https://github.com/AnonymHax/MapCreator/blob/master/screenshots/screen2.PNG?raw=true)
 
-- Editeur de collisions
+- Collision editor
 
 ![image](https://github.com/AnonymHax/MapCreator/blob/master/screenshots/screen3.PNG?raw=true)
 
-- Editeur lumieres
+- Light editor
 
 ![image](https://github.com/AnonymHax/MapCreator/blob/master/screenshots/screen4.PNG?raw=true)
 
-- Editeur tiles avec animation et interpretation 3D
+- Tiles editor with animation and 3D interpretation
 
 ![image](https://github.com/AnonymHax/MapCreator/blob/master/screenshots/screen5.PNG?raw=true)
 
